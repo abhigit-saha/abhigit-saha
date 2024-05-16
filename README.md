@@ -8,6 +8,7 @@
 - Bootstrap CSS
 - I'm current learning Web3.js, and aim to create DApps with real world usage
 
+### You can reach out to me via LinkedIn: https://www.linkedin.com/in/abhijit-saha-a440b5291/
 
 
 

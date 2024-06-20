@@ -5,9 +5,11 @@
 ## The tech stacks I am familiar with and learning: 
 
 - MERN Stack
+- Next.js
+- Tailwind CSS
 - Bootstrap CSS
-- I'm current learning Web3.js, and aim to create DApps with real world usage
-
+- I'm currently learning Web3.js, and I aim to create DApps with real-world usage
+I am also surfing through the competitive programming waters, and currently, I am rated 1100 on Codeforces.
 ### You can reach out to me via LinkedIn: https://www.linkedin.com/in/abhijit-saha-a440b5291/
 
 

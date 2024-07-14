@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I am Abhijit Saha, an undergraduate at MNNIT Allahabad, with a passion for good tech that helps folks 😁. 
+## I am Abhijit Saha, an undergraduate at MNNIT Allahabad, with a passion for good tech that helps folks. 
 
 ## The tech stacks I am familiar with and learning: 
 

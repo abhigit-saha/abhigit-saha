@@ -7,7 +7,6 @@
 - MERN Stack
 - Next.js
 - Tailwind CSS
-- Bootstrap CSS
 - I'm currently learning Web3.js, and I aim to create DApps with real-world usage
 - I am also surfing through the competitive programming waters, and currently, I am rated 1200 on Codeforces.
 ### You can reach out to me via LinkedIn: https://www.linkedin.com/in/abhijit-saha-a440b5291/

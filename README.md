@@ -9,7 +9,6 @@
 - Tailwind CSS
 - I'm currently learning Web3, and I aim to create DApps with real-world usage
 - I am also surfing through the competitive programming waters, and currently, I am rated 1200 on Codeforces.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhigit-saha)](https://github.com/anuraghazra/github-readme-stats)
 ### You can reach out to me via LinkedIn: https://www.linkedin.com/in/abhijit-saha-a440b5291/
 
 

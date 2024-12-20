@@ -1,29 +1,46 @@
-### Hi there 👋
+# 👋 Hi there!  
 
-## I am Abhijit Saha, an undergraduate at MNNIT Allahabad, with a passion for good tech that helps folks. 
+I’m **Abhijit Saha**, an undergraduate student at **MNNIT Allahabad**, driven by a passion for building tech that makes a difference.  
 
-## The tech stacks I am familiar with and learning: 
+## 🚀 About Me  
+- 💻 I specialize in **Full-Stack Development** with a strong grasp of the **MERN Stack**, **Next.js**, and **Tailwind CSS**.  
+- 🌐 Currently diving into **Web3**, exploring the exciting realm of **DApps** with practical, real-world use cases.  
+- 📱 Learning **React Native** to expand into **mobile app development**.  
+- 🏊‍♂️ Navigating the waters of **Competitive Programming**, with a current **Codeforces** rating of **1200**.  
 
-- MERN Stack
-- Next.js
-- Tailwind CSS
-- I'm currently learning Web3, and I aim to create DApps with real-world usage
-- I am also surfing through the competitive programming waters, and currently, I am rated 1200 on Codeforces.
-### You can reach out to me via LinkedIn: https://www.linkedin.com/in/abhijit-saha-a440b5291/
+## 🛠️ Tech Stack  
+Here’s what I work with (and am learning):  
+- **Frontend**: React, Next.js, Tailwind CSS  
+- **Backend**: Node.js, Express  
+- **Database**: MongoDB  
+- **Mobile Development**: React Native  
+- **Other Interests**: Exploring blockchain and Web3 technologies.  
 
+---
 
+## 🖥️ Tools & Technologies  
 
-<!--
-**abhigit-saha/abhigit-saha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Let’s Connect!  
+
+<p>
+  <a href="https://www.linkedin.com/in/abhijit-saha-a440b5291/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>

@@ -4,7 +4,7 @@ I’m **Abhijit Saha**, an undergraduate student at **MNNIT Allahabad**, driven 
 
 ## 🚀 About Me  
 - 💻 I specialize in **Full-Stack Development** with a strong grasp of the **MERN Stack**, **Next.js**, and **Tailwind CSS**.  
-- 🌐 Currently diving into **Web3**, exploring the exciting realm of **DApps** with practical, real-world use cases.  
+- 🌐 Excited about **Web3**, exploring the exciting realm of **DApps** with practical, real-world use cases.  
 - 📱 Learning **React Native** to expand into **mobile app development**.  
 - 🏊‍♂️ Navigating the waters of **Competitive Programming**, with a current **Codeforces** rating of **1200**.  
 
@@ -14,7 +14,7 @@ Here’s what I work with (and am learning):
 - **Backend**: Node.js, Express  
 - **Database**: MongoDB  
 - **Mobile Development**: React Native  
-- **Other Interests**: Exploring blockchain and Web3 technologies.  
+- **Web3**: Wagmi, Viem, Hardhat, Solidity 
 
 ---
 

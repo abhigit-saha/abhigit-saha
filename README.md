@@ -1,6 +1,6 @@
 # 👋 Hi there!  
 
-I’m **Abhijit Saha**, an undergraduate student at **MNNIT Allahabad**, driven by a passion for building tech that makes a difference.  
+I’m **Abhijit Saha**, an undergraduate student at **NIT Allahabad**, driven by a passion for building tech that makes a difference.  
 
 ## 🚀 About Me  
 - 💻 I specialize in **Full-Stack Development** with a strong grasp of the **MERN Stack**, **Next.js**, and **Tailwind CSS**.  

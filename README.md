@@ -6,7 +6,8 @@ I’m **Abhijit Saha**, an undergraduate student at **NIT Allahabad**, driven by
 - 💻 I specialize in **Full-Stack Development** with a strong grasp of the **MERN Stack**, **Next.js**, and **Tailwind CSS**.  
 - 🌐 Excited about **Web3**, exploring the exciting realm of **DApps** with practical, real-world use cases.  
 - 📱 Learning **React Native** to expand into **mobile app development**.  
-- 🏊‍♂️ Navigating the waters of **Competitive Programming**, with a current **Codeforces** rating of **1200**.  
+- 🏊‍♂️ Navigating the waters of **Competitive Programming**, with a current **Codeforces** rating of **1200**.
+- 👩🏻‍💻 Currently working on a Bitcoin library for **Rust** to understand about both rust and bitcoin in more detail.
 
 ## 🛠️ Tech Stack  
 Here’s what I work with (and am learning):  
@@ -14,8 +15,8 @@ Here’s what I work with (and am learning):
 - **Backend**: Node.js, Express  
 - **Database**: MongoDB  
 - **Mobile Development**: React Native  
-- **Web3**: Wagmi, Viem, Hardhat, Solidity 
-
+- **Web3**: Wagmi, Viem, Hardhat
+- **Languages**: Typescript, Python, C++, Rust, Solidity
 ---
 
 ## 🖥️ Tools & Technologies  

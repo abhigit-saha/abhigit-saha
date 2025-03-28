@@ -12,7 +12,7 @@ I’m **Abhijit Saha**, an undergraduate student at **NIT Allahabad**, driven by
 ## 🛠️ Tech Stack  
 Here’s what I work with (and am learning):  
 - **Frontend**: React, Next.js, Tailwind CSS  
-- **Backend**: Node.js, Express  
+- **Backend**: Node.js, Express, Django(still learning!)
 - **Database**: MongoDB  
 - **Mobile Development**: React Native  
 - **Web3**: Wagmi, Viem, Hardhat

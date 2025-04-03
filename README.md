@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=abhigit-saha)
+
 # 👋 Hi there!  
 
 I’m **Abhijit Saha**, an undergraduate student at **NIT Allahabad**, driven by a passion for building tech that makes a difference.  

@@ -5,7 +5,7 @@ I’m **Abhijit Saha**, an undergraduate student at **NIT Allahabad**, driven by
 
 ## 🚀 About Me  
 - 💻 I specialize in **Full-Stack Development** with a strong grasp of the **MERN Stack**, **Next.js**, and **Tailwind CSS**.  
-- 🌐 Excited about **Web3**, exploring the exciting realm of **DApps** with practical, real-world use cases.  
+- ₿ Delving into **Bitcoin** by contributing to **Open Source** 
 - 📱 Learning **React Native** to expand into **mobile app development**.  
 - 🏊‍♂️ Navigating the waters of **Competitive Programming**, with a current **Codeforces** rating of **1200**.
 - 👩🏻‍💻 Currently working on a Bitcoin library for **Rust** to understand about both rust and bitcoin in more detail.
@@ -29,10 +29,11 @@ Here’s what I work with (and am learning):
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin" />
 </p>
+
 
 ---
 

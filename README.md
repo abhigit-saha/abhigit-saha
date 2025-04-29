@@ -38,6 +38,20 @@ Here’s what I work with (and am learning):
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhigit-saha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abhijit Saha's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhigit-saha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhigit-saha&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 📬 Let’s Connect!  
 
 <p>

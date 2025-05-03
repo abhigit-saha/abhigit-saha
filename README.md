@@ -16,7 +16,6 @@ Here’s what I work with (and am learning):
 - **Backend**: Node.js, Express, Django(still learning!)
 - **Database**: MongoDB  
 - **Mobile Development**: React Native  
-- **Web3**: Wagmi, Viem, Hardhat
 - **Languages**: Typescript, Python, C++, Rust, Solidity
 ---
 

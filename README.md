@@ -8,7 +8,7 @@ I’m **Abhijit Saha**, an undergraduate student at **NIT Allahabad**, driven by
 - ₿ Delving into **Bitcoin** by contributing to **Open Source** 
 - 📱 Learning **React Native** to expand into **mobile app development**.  
 - 🏊‍♂️ Navigating the waters of **Competitive Programming**, with a current **Codeforces** rating of **1200**.
-- 👩🏻‍💻 Currently working on a Bitcoin library for **Rust** to understand about both rust and bitcoin in more detail.
+- 👩🏻‍💻 Currently working on a Bitcoin library in **Rust** to understand about both rust and bitcoin in more detail.
 
 ## 🛠️ Tech Stack  
 Here’s what I work with (and am learning):  

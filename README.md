@@ -1,6 +1,6 @@
 # 👋 Abhijit Saha  
 
-Undergraduate at **NIT Allahabad** • Full-Stack Developer • Bitcoin & Rust Enthusiast • Competitive Programmer(ish) (CF 1200)  
+Undergraduate at **NIT Allahabad**
 
 **Tech:** React, Next.js, Tailwind CSS, Node.js, Express, MongoDB, Django, React Native, TypeScript, Python, C++, Rust (still rusty), Solidity  
 
